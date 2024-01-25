@@ -1,7 +1,7 @@
-## Hi. Im Danilo Tolini 
-<code>System.out.println("I'm studying at the <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">University São Judas Tadeu</a>")</code>
+## <code>System.out.println ("Hi. Im Danilo Tolini")</code>
+👨‍💻I'm studying Computer Science at the <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">University São Judas Tadeu
  
- 
+ ##
  <a href="https://github.com/Danilotolini/Danilotolini">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Danilotolini&show_icons=true&theme=dark&line_height=27" alt="Danilotolini" />
     </a> 
