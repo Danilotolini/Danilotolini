@@ -1,2 +1,2 @@
-## Hi, Im Danilo Tolini
+## Hi. Im Danilo Tolini
 
