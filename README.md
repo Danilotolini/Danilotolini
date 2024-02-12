@@ -15,8 +15,8 @@
   <a href="#"><img src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"></a> 
     
   ## 🌐 Socials
-   <a href="https://instagram.com/danilotolinimartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:danilo.stolini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins-a27241204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+   <a href="https://instagram.com/danilotolinimartins" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins-a27241204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"> 
+   <a href = "mailto:danilo.stolini@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23000000.svg?logo=gmail&logoColor=white"></a>
     </a> 
   
