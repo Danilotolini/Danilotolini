@@ -16,7 +16,7 @@
     
   ## 🌐 Socials
    <a href="https://instagram.com/danilotolinimartins" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins-a27241204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"> 
+     <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"> 
    <a href = "mailto:danilo.stolini@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23000000.svg?logo=gmail&logoColor=white"></a>
     </a> 
   
