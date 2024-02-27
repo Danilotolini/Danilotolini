@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&ecolor=0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=header"/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=add8e6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Danilo+Tolini;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!)](https://git.io/typing-svg)  
 
