@@ -9,7 +9,7 @@
 
    ## 💻 Technologies
   <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,aws,mysql,vscode"></a>&nbsp;&nbsp;</a> 
+   <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,aws,js,ts,html,css,python,mysql,docker,postgresql,react,git"></a>&nbsp;&nbsp;</a>
   </p> 
   
   ## 🌐 Socials 
