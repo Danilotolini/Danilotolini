@@ -8,7 +8,7 @@
 <p>🎓 Graduating in Computer Science at <a href="https://www.usjt.br">Universidade São Judas Tadeu</a></p>
 <p>📚 I'm studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
 <p>☁️ <a href="https://www.credly.com/badges/81e4dc2e-d004-4e46-81b9-6726a6417e6f/linked_in_profile">AWS Academy Cloud Foundations</a></p>
-<p>🔠 B2 Cambridge English Level</p> 
+<p>🔠 B1 Cambridge English Level</p> 
 
 <p align="right">
   <a href="https://instagram.com/tolini._" target="_blank">
