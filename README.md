@@ -11,7 +11,7 @@
 <p>🔠 B1 Cambridge English Level</p> 
 
 <p align="right">
-  <a href="https://instagram.com/dstolini" target="_blank">
+  <a href="https://instagram.com/tolinis" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins/" target="_blank">
