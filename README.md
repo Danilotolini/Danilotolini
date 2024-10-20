@@ -14,7 +14,7 @@
   <a href="https://instagram.com/tolinis" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/danilo-dos-santos-tolini-martins/" target="_blank">
+  <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:danilo.stolini@gmail.com">
