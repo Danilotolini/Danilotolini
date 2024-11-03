@@ -4,11 +4,12 @@
 
 <hr>
 
-<p>👨‍💻 I have fun while learning to program </p>
-<p>🎓 Graduating in Computer Science at <a href="https://www.usjt.br">Universidade São Judas Tadeu</a></p>
-<p>📚 I'm studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
-<p>☕ <a href="https://www.impacta.com.br/certificado/K01NQ3dCSW50a3JBLzFSQm9OTzNEdz09">Java Programmer Certificate from Impacta College</a></p>
-<p>🔠 B1 Cambridge English Level</p> 
+<p>👨‍💻 Enjoying the journey of learning and programming</p>
+<p>🎓 Computer Science student at <a href="https://www.usjt.br">Universidade São Judas Tadeu</a></p>
+<p>☕ <a href="https://www.impacta.com.br/certificado/K01NQ3dCSW50a3JBLzFSQm9OTzNEdz09">Java Programmer Certificate</a> from Impacta College</p>
+<p>📚 Studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
+<p>🔠 Languages: Portuguese (native), English, and Italian</p>
+
 
 <p align="right">
   <a href="https://instagram.com/tolinis" target="_blank">
