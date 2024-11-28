@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-  <a> 
+  <a href="https://portfolio-danilotolini.netlify.app"> 
   <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=web&logoColor=white" alt="Portfolio">
   </a> 
   <a href="mailto:danilo.stolini@gmail.com">
