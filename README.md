@@ -10,7 +10,7 @@
 <p>📚 Studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
 <p>🔠 Portuguese (native), English, Italian, and Spanish</p>
 <p align="right"> 
-  <a href="https://instagram.com/tolinis" target="_blank">
+  <a href="https://instagram.com/danilotollini" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
