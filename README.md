@@ -23,7 +23,7 @@
   <a href="https://discord.com/users/d.tolini" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://music.apple.com/library/playlist/p.2P6WgxKc0x2pv4P" target="_blank">
+  <a href="https://music.apple.com/br/playlist/%C3%A8-meglio-essere-temuti-che-amati/pl.u-RRbVv17se3Dl6EP?l=en-GB" target="_blank">
     <img src="https://img.shields.io/badge/-FA243C?style=flat-square&logo=applemusic&logoColor=white" alt="Apple Music">
   </a>
 </p>
