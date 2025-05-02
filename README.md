@@ -4,7 +4,7 @@
 
 <hr>
 
-<p>👨‍💻 Enjoying the journey of learning and programming</p>
+<p>♟️ Coding is tactics. Thinking is strategy.</p>
 <p>🎓 Computer Science student at <a href="https://www.usjt.br">Universidade São Judas Tadeu</a></p>
 <p>☕ <a href="https://www.impacta.com.br/certificado/K01NQ3dCSW50a3JBLzFSQm9OTzNEdz09">Java Programmer Certificate</a> from Impacta College</p>
 <p>📚 Studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
