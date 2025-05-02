@@ -9,22 +9,24 @@
 <p>☕ <a href="https://www.impacta.com.br/certificado/K01NQ3dCSW50a3JBLzFSQm9OTzNEdz09">Java Programmer Certificate</a> from Impacta College</p>
 <p>📚 Studying English at <a href="https://www.culturainglesa.com.br">Cultura Inglesa</a></p>
 <p>🔠 Portuguese (native), English, Italian, and Spanish</p>
+
 <p align="right"> 
   <a href="https://discord.com/users/d.tolini" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%23000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-  <a href="https://portfolio-danilotolini.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  <a href="https://portfolio-danilotolini.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a> 
   <a href="mailto:danilo.stolini@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%234285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://music.apple.com/library/playlist/p.2P6WgxKc0x2pv4P" target="_blank">
+    <img src="https://img.shields.io/badge/-FA243C?style=flat-square&logo=applemusic&logoColor=white" alt="Apple Music">
   </a>
 </p>
-
-
 
 <hr>
 
