@@ -19,6 +19,9 @@
   </a> 
   <a href="mailto:danilo.stolini@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>  
+    <a href="https://www.instagram.com/danilotollini/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
   </a> 
   <a href="https://discord.com/users/d.tolini" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
