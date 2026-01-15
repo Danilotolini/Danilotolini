@@ -37,7 +37,7 @@
       </p>
     </td>
     <td width="42%" align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgresql,git" />
+      <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,git" />
     </td>
   </tr>
 </table>
