@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://portfolio-danilotolini.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=googlechrome&logoColor=white">
-  </a>
   <a href="mailto:danilotollini@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white">
   </a>
