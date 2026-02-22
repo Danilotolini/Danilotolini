@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
+
 <hr>
 
 <table>
@@ -20,24 +21,21 @@
     <td width="58%">
       <h3>About</h3>
       <p>
-        Software engineer focused on backend systems, software architecture
-        and cloud-native development.
+        Backend engineer focused on Java, Spring and cloud-native systems.
       </p>
       <p>
-        I’m interested in how systems evolve as they grow and how early
-        decisions affect reliability, clarity and velocity over time.
+        I’m interested in how systems evolve and how early design decisions influence reliability, clarity and long-term maintainability.
       </p>
       <p>
-        My work is centered around Java, Spring and AWS, with attention to
-        system boundaries, explicit trade-offs and long-term maintainability.
+        I value explicit boundaries, deliberate trade-offs 
+        and software that behaves predictably under pressure.
       </p>
       <p>
-        If you enjoy thoughtful discussions about backend engineering,
-        system design or real production constraints, feel free to connect.
+        Engineering with intention.
       </p>
     </td>
     <td width="42%" align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,git" />
+      <img src="https://skillicons.dev/icons?i=java,spring,aws,kotlin,docker,mysql,git" />
     </td>
   </tr>
 </table>
@@ -47,32 +45,30 @@
 <h3>Background</h3>
 
 <p>
-<strong>Postgraduate studies in Software Engineering</strong><br>
-<a href="https://www.pucsp.br">Pontifical Catholic University of São Paulo</a>
+<strong>Postgraduate Studies in Software Engineering</strong><br>
+Pontifical Catholic University of São Paulo
 </p>
 
 <p>
-<strong>Bachelor’s degree in Computer Science</strong><br>
-<a href="https://www.usjt.br">Universidade São Judas Tadeu</a>
+<strong>Bachelor’s Degree in Computer Science</strong><br>
+Universidade São Judas Tadeu
 </p>
 
 <p>
 <strong>Java Programmer Certification</strong><br>
-<a href="https://www.impacta.com.br/certificado/K01NQ3dCSW50a3JBLzFSQm9OTzNEdz09">
 Impacta College
-</a>
 </p>
 
 <hr>
 
-<h3>Focus areas</h3>
+<h3>Focus Areas</h3>
 
 <table>
   <tr>
     <td width="33%">
       <strong>Backend</strong>
       <ul>
-        <li>Java and Spring Boot</li>
+        <li>Java & Spring Boot</li>
         <li>API design</li>
         <li>Business logic modeling</li>
       </ul>
@@ -80,15 +76,15 @@ Impacta College
     <td width="33%">
       <strong>Architecture</strong>
       <ul>
-        <li>Clean Architecture</li>
-        <li>Modular design</li>
+        <li>Layered systems</li>
         <li>Separation of concerns</li>
+        <li>Intentional design</li>
       </ul>
     </td>
     <td width="33%">
       <strong>Cloud</strong>
       <ul>
-        <li>AWS services</li>
+        <li>AWS</li>
         <li>Docker</li>
         <li>Relational databases</li>
       </ul>
