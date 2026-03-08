@@ -1,12 +1,14 @@
 <div align="center">
-<br/><br/>
+<br/><br/><br/>
 <sub>S &nbsp; O &nbsp; F &nbsp; T &nbsp; W &nbsp; A &nbsp; R &nbsp; E &nbsp;&nbsp;&nbsp; E &nbsp; N &nbsp; G &nbsp; I &nbsp; N &nbsp; E &nbsp; E &nbsp; R &nbsp; I &nbsp; N &nbsp; G</sub>
 <br/><br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=38&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Danilo+Tolini" alt="Danilo Tolini"/>
-<br/>
+<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/><br/>
 <sup>B A C K E N D &nbsp;&nbsp;·&nbsp;&nbsp; J A V A &nbsp;&nbsp;·&nbsp;&nbsp; C L O U D - N A T I V E</sup>
+<br/><br/>
+<sub>Feel free to explore the repositories or reach out elsewhere.</sub>
 <br/><br/>
 <a href="https://www.linkedin.com/in/danilotolini/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white">
@@ -23,12 +25,12 @@
 <br/>
 
 Backend engineer focused on **Java**, **Spring** and cloud-native systems.
-
 I'm interested in how systems evolve and how early design decisions
 influence reliability, clarity and long-term maintainability.
-
 I value explicit boundaries, deliberate trade-offs
 and software that behaves predictably under pressure.
+
+Interested in Kafka, both the distributed system and the writer.
 
 <br/>
 
