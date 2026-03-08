@@ -40,7 +40,7 @@ and software that behaves predictably under pressure.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,aws,docker,mysql,git&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,aws,kotlin,docker,mysql,postgresql,react,git&theme=dark&perline=9" />
 
 <br/><br/>
 
