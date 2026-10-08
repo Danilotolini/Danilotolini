@@ -16,7 +16,7 @@ public class DaniloTolini {
         "Predictable under pressure"
     };
 
-    String[] interests = { "Distributed systems", "Kafka — the system and the writer" };
+    String[] interests = { "Distributed systems", "Kafka the system and the writer" };
 
     String[] education = {
         "Postgraduate · Software Engineering — PUC-SP",
